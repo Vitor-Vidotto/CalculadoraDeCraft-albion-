@@ -1,6 +1,6 @@
 Welcome to my craft calculator, lets explain how to instal:
 
-First of all u need to instal the .NET framework, and that is, only open the .exe
+First of all u need to instal the .NET framework (6.0+), and that is, only open the .exe
 
 the main code is this one below
 
